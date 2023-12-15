@@ -8,4 +8,4 @@ email="abcd@gmail.com"
 password="343"
 city="spn"
 console.log(accId)
-console.table([accId,email,password,city])
+console.log([accId,email,password]);
