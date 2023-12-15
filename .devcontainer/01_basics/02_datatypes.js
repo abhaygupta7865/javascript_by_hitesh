@@ -9,3 +9,5 @@
 //undefined
 //symbol
 //object
+console.log("2");
+console.log(typeof null);
