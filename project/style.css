@@ -27,3 +27,18 @@ nav a{
     text-decoration: none;
     color: #1b1b1b;
 }
+.projects{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.linkstyle{
+    background-color: #fff;
+    color: #212121;
+    padding: 10px 30px;
+    border: solid 1px black;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: 5px;
+}

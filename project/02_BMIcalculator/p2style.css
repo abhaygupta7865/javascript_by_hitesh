@@ -1,0 +1,24 @@
+#height,
+#weight {
+  width: 150px;
+  height: 25px;
+  margin-top: 30px;
+}
+#weight-guide {
+    margin-left: 75px;
+    margin-top: 25px;
+  }
+#results {
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: rgb(241, 241, 241);
+  }
+
+button{
+    margin: 20px 20px;
+    background-color: white;
+    padding: 1px 30px;
+    border: solid black 2px;
+    font-size: 25px;
+}
